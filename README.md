@@ -1,4 +1,4 @@
-## Tasks which were completed during Vadim Ksendzov QA course. :pencil:
+## Tasks which were completed during QA course. :pencil:
 
 ##### 1.    Git Bash. Task_1 - pwd, mkdir, cd, cp, mv, touch, vim, cat, ls, find, tail, head, curl + script  
 ##### 2.   GitHub. Task_JSON - clone, add, commit, push, fetch, pull 
